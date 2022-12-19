@@ -28,5 +28,4 @@ public class CongestionTaxController {
         return calculator.getTollTax(dto.getVehicleType(), dto.getDateTimes());
     }
 
-
 }
