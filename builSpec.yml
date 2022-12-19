@@ -10,5 +10,5 @@ phases:
       - echo Build Completed Successfully
 artifacts:
   files:
-    - target/test.jar
+    - target/congestion-tax-calculator.jar
   discard-paths: yes
